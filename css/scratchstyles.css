@@ -1,0 +1,59 @@
+body{ 
+    background-image: url(https://www.diycraftsguru.com/wp-content/uploads/2020/05/2-8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    background-color: rgb(49, 23, 5);
+    color: beige;
+    font-size: 350%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.video-center{
+    display: block;
+    margin: auto;
+}
+
+.list{
+    display: block;
+    margin-left: 375px;
+    margin-right: 375px;
+    background-color: rgba(9, 48, 9, 0.596);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: beige;
+}
+img{
+    display: block;
+    margin-left: 375px;
+    margin-right: 375px;
+}
+
+.tableaustyle{
+    display: block;
+    margin-top: 20px;
+    margin-left: 475px;
+}
+
+.footer{
+    font-size: medium;
+    background-color: beige;
+    position: fixed;
+}
+
+.footer{
+    font-size: medium;
+    background-color: rgb(49, 23, 5);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 20px;
+}
+a{
+    color:beige;
+    float: right;
+    margin-right: 50px;
+}
